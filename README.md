@@ -12,7 +12,7 @@
 
 Πηγή: https://www.statistics.gr/el/statistics/ind 
 
-## Licence & copyright 
+## License & copyright 
 Licensed under the [MIT License](LICENSE)
 
 
