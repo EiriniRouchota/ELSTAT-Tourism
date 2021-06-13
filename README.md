@@ -10,5 +10,8 @@
 2015
 - Αφίξεις τουριστών στην Ελλάδα ανά τρίμηνο για την τετραετία 2011-2015
 
+## Licence & copyright 
+Licensed under the [MIT Licence](LICENCE)
+
 Πηγή: https://www.statistics.gr/el/statistics/ind 
 
